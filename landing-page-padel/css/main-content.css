@@ -1,0 +1,42 @@
+.main-content {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.banner img {
+    width: 90%;
+    height: 400px;
+    display: flex;
+    padding-left: 200px;
+}
+
+.section-description {
+    display: flex;
+    margin-top: 50px;   
+}
+
+.section-title {
+    margin-right: 15px;
+}
+
+.section-title h1.title {
+    font-size: 62px;
+    border-right: 6px solid var(--black);
+    width: 475px;
+}
+
+.section-title h1.title span {
+   color: var(--grey);
+}
+
+.section-paragraph{
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;    
+}
+
+.title-palas {
+    color: var(--grey);
+    padding-left: 10%;
+}

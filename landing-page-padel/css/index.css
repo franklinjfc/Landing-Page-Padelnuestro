@@ -1,0 +1,18 @@
+@import './navbar.css';
+@import './wrapper.css';
+@import './main-content.css';
+@import './palas.css';
+@import './footer.css';
+
+:root {
+    --grey: #b6dbc4;
+    --white: #FFFFFf;
+    --black: #202020;
+    --font: system-ui;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: var(--white);
+}

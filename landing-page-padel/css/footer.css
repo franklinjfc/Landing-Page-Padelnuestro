@@ -1,0 +1,19 @@
+.footer {
+    height: 150px;
+    width: 100%;
+    padding: 15px 0;
+    display: flex;
+    align-items: center;
+    background-color: var(--grey);
+    justify-content: space-between;
+    margin-top: 30px;
+}
+
+.footer-logo {
+    margin-left: 20px;
+}
+
+.footer-redes {
+    display: flex;
+    margin-right: 20px;
+}
